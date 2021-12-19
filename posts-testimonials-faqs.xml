@@ -1,14 +1,14 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" xmlns:ns3="http://wordpress.org/export/1.2/excerpt/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
 
 <channel>
-	<title>Selleradise Demo - Fashion</title>
-	<link>https://demo.selleradise.com/fashion</link>
-	<description>Just another Selleradise Demos site</description>
-	<pubDate>Sun, 28 Nov 2021 11:49:59 +0000</pubDate>
+	<title>Selleradise Demo</title>
+	<link>https://selleradise.redoxbird.com</link>
+	<description>Just another WordPress site</description>
+	<pubDate>Sun, 19 Dec 2021 10:52:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://demo.selleradise.com/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.selleradise.com/fashion</wp:base_blog_url>
+	<wp:base_site_url>https://selleradise.redoxbird.com/</wp:base_site_url>
+	<wp:base_blog_url>https://selleradise.redoxbird.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login>khizar</wp:author_login><wp:author_email>khizarhasan927@gmail.com</wp:author_email><wp:author_display_name>khizar</wp:author_display_name><wp:author_first_name /><wp:author_last_name /></wp:author>
 
@@ -16,16 +16,83 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/cropped-icon-v5-32x32.png</url>
-	<title>Selleradise Demo &#8211; Fashion</title>
-	<link>https://demo.selleradise.com/fashion</link>
+	<url>https://selleradise.redoxbird.com/wp-content/uploads/2021/12/cropped-icon-v5-32x32.png</url>
+	<title>Selleradise Demo</title>
+	<link>https://selleradise.redoxbird.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
+		<title>Hello world!</title>
+		<link>https://selleradise.redoxbird.com/?p=1</link>
+		<pubDate>Tue, 07 Dec 2021 08:37:31 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/?p=1</guid>
+		<description />
+		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</ns2:encoded>
+		<ns3:encoded />
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date>2021-12-07 08:37:31</wp:post_date>
+		<wp:post_date_gmt>2021-12-07 08:37:31</wp:post_date_gmt>
+		<wp:post_modified>2021-12-17 11:22:17</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-17 11:22:17</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>hello-world__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized">Uncategorized</category>
+						<wp:postmeta>
+		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
+		<wp:meta_value>12</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
+		<wp:meta_value>1638867035</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+		<wp:meta_value>publish</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+		<wp:meta_value>1639740137</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+		<wp:meta_value>hello-world</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
+		<wp:meta_value>a:1:{i:1;s:1:"1";}</wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author>A WordPress Commenter</wp:comment_author>
+			<wp:comment_author_email>wapuu@wordpress.example</wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP />
+			<wp:comment_date>2021-12-07 08:37:31</wp:comment_date>
+			<wp:comment_date_gmt>2021-12-07 08:37:31</wp:comment_date_gmt>
+			<wp:comment_content>Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&gt;.</wp:comment_content>
+			<wp:comment_approved>post-trashed</wp:comment_approved>
+			<wp:comment_type>comment</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
 		<title>10 Facts You Never Knew About Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/10-facts-you-never-knew-about-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/10-facts-you-never-knew-about-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 09:41:56 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2866</guid>
@@ -33,15 +100,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -49,8 +120,8 @@
 		<wp:post_id>2866</wp:post_id>
 		<wp:post_date>2021-11-20 09:41:56</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 09:41:56</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:41:56</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:41:56</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:35:07</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:35:07</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>10-facts-you-never-knew-about-selleradise</wp:post_name>
@@ -63,7 +134,7 @@
 										<category domain="category" nicename="facts">Facts</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2867</wp:meta_value>
+		<wp:meta_value>3623</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -71,16 +142,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>1</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637985912</wp:meta_value>
+		<wp:meta_value>1639618220</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>5 Little Tricks To Achieve The Best Results In Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 09:45:16 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2869</guid>
@@ -88,15 +159,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -104,8 +179,8 @@
 		<wp:post_id>2869</wp:post_id>
 		<wp:post_date>2021-11-20 09:45:16</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 09:45:16</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:45:16</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:45:16</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:25:40</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:40</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>5-little-tricks-to-achieve-the-best-results-in-selleradise</wp:post_name>
@@ -118,7 +193,7 @@
 										<category domain="category" nicename="tips-tricks">Tips &amp;amp; Tricks</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2870</wp:meta_value>
+		<wp:meta_value>3609</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -130,16 +205,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>3</wp:meta_value>
+		<wp:meta_value>4</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637850836</wp:meta_value>
+		<wp:meta_value>1639648981</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Five Preparations You Should Make Before Using Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/five-preparations-you-should-make-before-using-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/five-preparations-you-should-make-before-using-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 09:48:34 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2872</guid>
@@ -147,15 +222,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -163,8 +242,8 @@
 		<wp:post_id>2872</wp:post_id>
 		<wp:post_date>2021-11-20 09:48:34</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 09:48:34</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:48:34</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:48:34</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:35:54</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:35:54</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>five-preparations-you-should-make-before-using-selleradise</wp:post_name>
@@ -177,7 +256,7 @@
 										<category domain="category" nicename="tips-tricks">Tips &amp;amp; Tricks</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2873</wp:meta_value>
+		<wp:meta_value>3622</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -185,16 +264,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>1</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1638072312</wp:meta_value>
+		<wp:meta_value>1639589661</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Why Selleradise Had Been So Popular Till Now?</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/why-selleradise-had-been-so-popular-till-now/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/why-selleradise-had-been-so-popular-till-now/</link>
 		<pubDate>Sat, 20 Nov 2021 09:56:04 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2875</guid>
@@ -202,15 +281,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -218,8 +301,8 @@
 		<wp:post_id>2875</wp:post_id>
 		<wp:post_date>2021-11-20 09:56:04</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 09:56:04</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:56:04</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:56:04</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:35:24</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:35:24</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>why-selleradise-had-been-so-popular-till-now</wp:post_name>
@@ -232,7 +315,7 @@
 										<category domain="category" nicename="enlightening">Enlightening</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2876</wp:meta_value>
+		<wp:meta_value>3626</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -240,16 +323,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>2</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637869832</wp:meta_value>
+		<wp:meta_value>1639675486</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Seven Latest Developments In Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/seven-latest-developments-in-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/seven-latest-developments-in-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 09:59:18 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2878</guid>
@@ -257,15 +340,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -273,8 +360,8 @@
 		<wp:post_id>2878</wp:post_id>
 		<wp:post_date>2021-11-20 09:59:18</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 09:59:18</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:59:18</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:59:18</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:30:24</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:30:24</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>seven-latest-developments-in-selleradise</wp:post_name>
@@ -287,16 +374,24 @@
 										<category domain="category" nicename="facts">Facts</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2879</wp:meta_value>
+		<wp:meta_value>3608</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
 		<wp:meta_value>1</wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
+		<wp:meta_value>5</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
+		<wp:meta_value>1639652248</wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title>10 Reasons Why People Like Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/10-reasons-why-people-like-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/10-reasons-why-people-like-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 10:02:33 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2881</guid>
@@ -304,15 +399,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis, magna ullamcorper elementum vestibulum, justo quam euismod diam, et aliquam libero purus id tortor. Sed lectus mauris, luctus et posuere at, elementum ut augue. Mauris et dolor id nunc vestibulum malesuada id vel magna. Mauris ut ultricies eros. Cras ullamcorper dui eu dui blandit, quis dignissim ipsum lobortis. Ut non gravida metus. Pellentesque vel leo a nisl semper convallis. Donec vulputate lectus vel dui malesuada sollicitudin. Sed in elit a dolor condimentum efficitur at quis tortor. Integer sem libero, mattis nec pellentesque nec, volutpat id nisl. Etiam quis sagittis quam. Aenean ac dui diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Morbi aliquet vulputate tortor, vel tristique leo luctus nec. Morbi eu pretium massa. Suspendisse id lacus felis. Ut porttitor, lorem id mollis pulvinar, nisi quam cursus neque, nec volutpat ligula lectus in nunc. Donec a blandit enim, sed commodo sem. Ut mauris odio, maximus sed placerat id, porta quis metus. Duis tempus, metus ullamcorper convallis egestas, ante metus lacinia purus, ut lobortis nisl urna eu elit. Pellentesque orci nisi, ultrices finibus metus eu, elementum tincidunt ex. Nullam hendrerit ex id pharetra dictum. Sed non enim vulputate, porta neque sed, auctor nunc. Fusce lacinia mauris maximus, pretium arcu ac, venenatis tellus. Praesent commodo eget nibh sed vulputate. Suspendisse fermentum massa augue, ac aliquet sem semper vitae. Praesent suscipit, augue in pellentesque tristique, dui orci sollicitudin velit, eu commodo risus velit id enim. Mauris lobortis hendrerit ultrices.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Vestibulum malesuada dictum neque, a ultricies metus venenatis et. Donec blandit diam augue, a pulvinar massa vestibulum sed. Proin sapien quam, dignissim in ipsum ac, mattis tempor nisi. Morbi pharetra molestie pharetra. Morbi in est non purus maximus efficitur eu malesuada tellus. Curabitur sapien enim, condimentum id purus at, lobortis tempor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus tempus ante massa, non aliquet orci accumsan et. In semper, erat quis condimentum pretium, ligula turpis consequat velit, quis varius nisi ligula vitae dolor. Vivamus semper non nisl at pretium. Fusce risus ante, ultrices eget ultrices ac, auctor sed diam.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;In vitae sagittis libero, ut cursus sem. Cras vitae suscipit turpis, eget malesuada nibh. Vestibulum massa ligula, aliquet eget rhoncus eu, luctus id turpis. Morbi commodo ultrices felis a cursus. Etiam volutpat ligula tellus, non lacinia ante efficitur vitae. Proin eu tellus id mauris vulputate aliquam. Nullam vitae euismod urna, sit amet posuere eros. Nam lacus est, rhoncus vel massa id, aliquet convallis tellus. Curabitur sed mi id mauris maximus vehicula. Suspendisse vulputate eget mauris sed ultricies. Nullam posuere efficitur iaculis. Suspendisse in arcu sed enim convallis vehicula.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Maecenas egestas, neque et maximus elementum, felis ante volutpat nisl, feugiat pellentesque eros ex vel erat. Mauris quis ante nibh. Phasellus dolor urna, porttitor sit amet lacinia ac, consectetur in dui. Aliquam erat volutpat. Ut bibendum egestas elit, ac imperdiet nunc. Praesent elementum vestibulum erat sit amet dictum. Cras id augue sit amet est pretium gravida vitae in leo. Mauris eu ligula tortor. Aenean id lacinia erat. Sed sapien tellus, volutpat ac finibus eu, congue in quam. Nunc non porta elit, a tempus velit. Proin feugiat fringilla velit, a eleifend augue interdum a.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -320,8 +419,8 @@
 		<wp:post_id>2881</wp:post_id>
 		<wp:post_date>2021-11-20 10:02:33</wp:post_date>
 		<wp:post_date_gmt>2021-11-20 10:02:33</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 10:02:33</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 10:02:33</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:29:48</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:29:48</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>10-reasons-why-people-like-selleradise</wp:post_name>
@@ -334,7 +433,7 @@
 										<category domain="category" nicename="facts">Facts</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2882</wp:meta_value>
+		<wp:meta_value>3607</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -342,16 +441,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>1</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1638002664</wp:meta_value>
+		<wp:meta_value>1639611261</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>How You Can Own Selleradise With Lower Cost</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/how-you-can-own-selleradise-with-lower-cost/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/21/how-you-can-own-selleradise-with-lower-cost/</link>
 		<pubDate>Sun, 21 Nov 2021 15:21:40 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2903</guid>
@@ -359,15 +458,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet molestie mi at pellentesque. Etiam at facilisis dui, id sodales nisl. Ut ultrices convallis elementum. Suspendisse condimentum tortor purus. Etiam posuere elit turpis, non fringilla mauris imperdiet vel. Aliquam tortor eros, pretium vel malesuada et, ultrices eget purus. Nulla interdum leo eu nisi hendrerit, ut consequat massa rutrum. Sed ornare massa urna, quis auctor neque accumsan id. Proin dictum eget dui ac facilisis. Vestibulum pharetra quis ligula in commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse nec felis et dui dictum tempus. Integer at quam suscipit, interdum nisi eget, ultricies ligula. Fusce a ante finibus lacus egestas sollicitudin. Aenean sed risus tortor. Phasellus id sagittis odio. Vestibulum congue ipsum quis urna porttitor volutpat. Nullam quis semper augue. Vivamus at accumsan purus, eget consequat justo. Morbi commodo risus non tincidunt ornare. Curabitur et viverra velit, sed pellentesque urna.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse tincidunt turpis lectus, quis tincidunt est posuere quis. In elementum, nulla eget commodo vehicula, sem mauris sagittis felis, non semper nisi ex at mauris. Quisque a augue molestie, porta risus ut, dapibus dui. Vestibulum vitae leo sit amet nisi aliquam convallis. Sed in elit ligula. Proin purus eros, vulputate in velit quis, laoreet vehicula libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean id elit quis urna blandit accumsan eget et purus. Maecenas et magna vehicula, vehicula risus non, vulputate tellus. Phasellus ut nibh placerat, commodo elit id, rhoncus sem. Proin hendrerit sagittis congue. Nunc in dui vel urna luctus posuere at at nisi.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Etiam nec condimentum libero. Duis dui erat, venenatis ac justo vel, consectetur tempus sapien. Etiam tincidunt quam ut lorem sagittis, eget vulputate nulla semper. Pellentesque aliquet sed quam nec imperdiet. Integer sagittis condimentum velit id commodo. Aenean quis tortor vel felis facilisis venenatis ut nec felis. Proin a est diam. Nulla velit turpis, bibendum nec dignissim sed, faucibus ac lorem.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Pellentesque interdum enim ut posuere pretium. Morbi varius molestie aliquet. Nullam laoreet gravida semper. Fusce id felis egestas, vestibulum arcu ut, consequat nisi. Maecenas efficitur sed nisi quis scelerisque. Aliquam sagittis odio eu urna ullamcorper, in egestas eros bibendum. Integer urna turpis, pharetra ac porta sed, tincidunt vel justo. Nunc nec nulla vel augue bibendum tempus id non lacus. Morbi laoreet tortor et enim faucibus, ac facilisis neque faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -375,8 +478,8 @@
 		<wp:post_id>2903</wp:post_id>
 		<wp:post_date>2021-11-21 15:21:40</wp:post_date>
 		<wp:post_date_gmt>2021-11-21 15:21:40</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:21:40</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:21:40</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:26:05</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:26:05</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>how-you-can-own-selleradise-with-lower-cost</wp:post_name>
@@ -389,7 +492,7 @@
 										<category domain="category" nicename="tips-tricks">Tips &amp;amp; Tricks</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2905</wp:meta_value>
+		<wp:meta_value>3612</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -397,16 +500,16 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>5</wp:meta_value>
+		<wp:meta_value>6</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637768815</wp:meta_value>
+		<wp:meta_value>1639592361</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Fully Utilize Selleradise To Enhance Your Business</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/fully-utilize-selleradise-to-enhance-your-business/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/21/fully-utilize-selleradise-to-enhance-your-business/</link>
 		<pubDate>Sun, 21 Nov 2021 15:16:39 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2897</guid>
@@ -414,15 +517,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet molestie mi at pellentesque. Etiam at facilisis dui, id sodales nisl. Ut ultrices convallis elementum. Suspendisse condimentum tortor purus. Etiam posuere elit turpis, non fringilla mauris imperdiet vel. Aliquam tortor eros, pretium vel malesuada et, ultrices eget purus. Nulla interdum leo eu nisi hendrerit, ut consequat massa rutrum. Sed ornare massa urna, quis auctor neque accumsan id. Proin dictum eget dui ac facilisis. Vestibulum pharetra quis ligula in commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse nec felis et dui dictum tempus. Integer at quam suscipit, interdum nisi eget, ultricies ligula. Fusce a ante finibus lacus egestas sollicitudin. Aenean sed risus tortor. Phasellus id sagittis odio. Vestibulum congue ipsum quis urna porttitor volutpat. Nullam quis semper augue. Vivamus at accumsan purus, eget consequat justo. Morbi commodo risus non tincidunt ornare. Curabitur et viverra velit, sed pellentesque urna.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse tincidunt turpis lectus, quis tincidunt est posuere quis. In elementum, nulla eget commodo vehicula, sem mauris sagittis felis, non semper nisi ex at mauris. Quisque a augue molestie, porta risus ut, dapibus dui. Vestibulum vitae leo sit amet nisi aliquam convallis. Sed in elit ligula. Proin purus eros, vulputate in velit quis, laoreet vehicula libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean id elit quis urna blandit accumsan eget et purus. Maecenas et magna vehicula, vehicula risus non, vulputate tellus. Phasellus ut nibh placerat, commodo elit id, rhoncus sem. Proin hendrerit sagittis congue. Nunc in dui vel urna luctus posuere at at nisi.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Etiam nec condimentum libero. Duis dui erat, venenatis ac justo vel, consectetur tempus sapien. Etiam tincidunt quam ut lorem sagittis, eget vulputate nulla semper. Pellentesque aliquet sed quam nec imperdiet. Integer sagittis condimentum velit id commodo. Aenean quis tortor vel felis facilisis venenatis ut nec felis. Proin a est diam. Nulla velit turpis, bibendum nec dignissim sed, faucibus ac lorem.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Pellentesque interdum enim ut posuere pretium. Morbi varius molestie aliquet. Nullam laoreet gravida semper. Fusce id felis egestas, vestibulum arcu ut, consequat nisi. Maecenas efficitur sed nisi quis scelerisque. Aliquam sagittis odio eu urna ullamcorper, in egestas eros bibendum. Integer urna turpis, pharetra ac porta sed, tincidunt vel justo. Nunc nec nulla vel augue bibendum tempus id non lacus. Morbi laoreet tortor et enim faucibus, ac facilisis neque faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -430,8 +537,8 @@
 		<wp:post_id>3376</wp:post_id>
 		<wp:post_date>2021-11-21 15:16:39</wp:post_date>
 		<wp:post_date_gmt>2021-11-21 15:16:39</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:16:39</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:16:39</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:30:39</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:30:39</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>fully-utilize-selleradise-to-enhance-your-business</wp:post_name>
@@ -444,7 +551,7 @@
 										<category domain="category" nicename="business">Business</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>3375</wp:meta_value>
+		<wp:meta_value>3611</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -456,12 +563,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637867112</wp:meta_value>
+		<wp:meta_value>1639656276</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>The History of Selleradise</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/the-history-of-selleradise/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/21/the-history-of-selleradise/</link>
 		<pubDate>Sun, 21 Nov 2021 15:19:13 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/?p=2900</guid>
@@ -469,15 +576,19 @@
 		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquet molestie mi at pellentesque. Etiam at facilisis dui, id sodales nisl. Ut ultrices convallis elementum. Suspendisse condimentum tortor purus. Etiam posuere elit turpis, non fringilla mauris imperdiet vel. Aliquam tortor eros, pretium vel malesuada et, ultrices eget purus. Nulla interdum leo eu nisi hendrerit, ut consequat massa rutrum. Sed ornare massa urna, quis auctor neque accumsan id. Proin dictum eget dui ac facilisis. Vestibulum pharetra quis ligula in commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse nec felis et dui dictum tempus. Integer at quam suscipit, interdum nisi eget, ultricies ligula. Fusce a ante finibus lacus egestas sollicitudin. Aenean sed risus tortor. Phasellus id sagittis odio. Vestibulum congue ipsum quis urna porttitor volutpat. Nullam quis semper augue. Vivamus at accumsan purus, eget consequat justo. Morbi commodo risus non tincidunt ornare. Curabitur et viverra velit, sed pellentesque urna.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Suspendisse tincidunt turpis lectus, quis tincidunt est posuere quis. In elementum, nulla eget commodo vehicula, sem mauris sagittis felis, non semper nisi ex at mauris. Quisque a augue molestie, porta risus ut, dapibus dui. Vestibulum vitae leo sit amet nisi aliquam convallis. Sed in elit ligula. Proin purus eros, vulputate in velit quis, laoreet vehicula libero. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean id elit quis urna blandit accumsan eget et purus. Maecenas et magna vehicula, vehicula risus non, vulputate tellus. Phasellus ut nibh placerat, commodo elit id, rhoncus sem. Proin hendrerit sagittis congue. Nunc in dui vel urna luctus posuere at at nisi.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Etiam nec condimentum libero. Duis dui erat, venenatis ac justo vel, consectetur tempus sapien. Etiam tincidunt quam ut lorem sagittis, eget vulputate nulla semper. Pellentesque aliquet sed quam nec imperdiet. Integer sagittis condimentum velit id commodo. Aenean quis tortor vel felis facilisis venenatis ut nec felis. Proin a est diam. Nulla velit turpis, bibendum nec dignissim sed, faucibus ac lorem.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Pellentesque interdum enim ut posuere pretium. Morbi varius molestie aliquet. Nullam laoreet gravida semper. Fusce id felis egestas, vestibulum arcu ut, consequat nisi. Maecenas efficitur sed nisi quis scelerisque. Aliquam sagittis odio eu urna ullamcorper, in egestas eros bibendum. Integer urna turpis, pharetra ac porta sed, tincidunt vel justo. Nunc nec nulla vel augue bibendum tempus id non lacus. Morbi laoreet tortor et enim faucibus, ac facilisis neque faucibus.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns2:encoded>
@@ -485,8 +596,8 @@
 		<wp:post_id>3377</wp:post_id>
 		<wp:post_date>2021-11-21 15:19:13</wp:post_date>
 		<wp:post_date_gmt>2021-11-21 15:19:13</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:19:13</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:19:13</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:27:22</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:27:22</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>the-history-of-selleradise</wp:post_name>
@@ -499,7 +610,7 @@
 										<category domain="category" nicename="history">History</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>2901</wp:meta_value>
+		<wp:meta_value>3610</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_post_views_count</wp:meta_key>
@@ -511,12 +622,12 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637837032</wp:meta_value>
+		<wp:meta_value>1639657376</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>Why Is Selleradise So Famous?</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/25/why-is-selleradise-so-famous/</link>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/25/why-is-selleradise-so-famous/</link>
 		<pubDate>Thu, 25 Nov 2021 11:36:31 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?p=3430</guid>
@@ -544,8 +655,8 @@
 		<wp:post_id>3430</wp:post_id>
 		<wp:post_date>2021-11-25 11:36:31</wp:post_date>
 		<wp:post_date_gmt>2021-11-25 11:36:31</wp:post_date_gmt>
-		<wp:post_modified>2021-11-25 11:36:31</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-25 11:36:31</wp:post_modified_gmt>
+		<wp:post_modified>2021-12-18 11:26:34</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:26:34</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>open</wp:ping_status>
 		<wp:post_name>why-is-selleradise-so-famous</wp:post_name>
@@ -558,320 +669,23 @@
 										<category domain="category" nicename="enlightening">Enlightening</category>
 						<wp:postmeta>
 		<wp:meta_key>_thumbnail_id</wp:meta_key>
-		<wp:meta_value>3431</wp:meta_value>
+		<wp:meta_value>3606</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>1</wp:meta_value>
+		<wp:meta_value>5</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1637915712</wp:meta_value>
+		<wp:meta_value>1639642170</wp:meta_value>
 		</wp:postmeta>
 							</item>
 				<item>
-		<title>freestocks-_3Q3tsJ01nc-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/10-facts-you-never-knew-about-selleradise/freestocks-_3q3tsj01nc-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 09:41:50 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/freestocks-_3Q3tsJ01nc-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2867</wp:post_id>
-		<wp:post_date>2021-11-20 09:41:50</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 09:41:50</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:41:50</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:41:50</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>freestocks-_3q3tsj01nc-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2866</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/freestocks-_3Q3tsJ01nc-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/freestocks-_3Q3tsJ01nc-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1619;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/freestocks-_3Q3tsJ01nc-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"freestocks-_3Q3tsJ01nc-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:45:"freestocks-_3Q3tsJ01nc-unsplash-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"freestocks-_3Q3tsJ01nc-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:44:"freestocks-_3Q3tsJ01nc-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"freestocks-_3Q3tsJ01nc-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>windows-p74ndnYWRY4-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/windows-p74ndnywry4-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 09:45:07 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/windows-p74ndnYWRY4-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2870</wp:post_id>
-		<wp:post_date>2021-11-20 09:45:07</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 09:45:07</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:45:07</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:45:07</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>windows-p74ndnywry4-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2869</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/windows-p74ndnYWRY4-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/windows-p74ndnYWRY4-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1619;s:6:"height";i:1080;s:4:"file";s:40:"2021/11/windows-p74ndnYWRY4-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"windows-p74ndnYWRY4-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:42:"windows-p74ndnYWRY4-unsplash-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:41:"windows-p74ndnYWRY4-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:41:"windows-p74ndnYWRY4-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:40:"windows-p74ndnYWRY4-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>jason-goodman-Oalh2MojUuk-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/five-preparations-you-should-make-before-using-selleradise/jason-goodman-oalh2mojuuk-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 09:48:29 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/jason-goodman-Oalh2MojUuk-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2873</wp:post_id>
-		<wp:post_date>2021-11-20 09:48:29</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 09:48:29</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:48:29</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:48:29</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>jason-goodman-oalh2mojuuk-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2872</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/jason-goodman-Oalh2MojUuk-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/jason-goodman-Oalh2MojUuk-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:46:"2021/11/jason-goodman-Oalh2MojUuk-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"jason-goodman-Oalh2MojUuk-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:48:"jason-goodman-Oalh2MojUuk-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"jason-goodman-Oalh2MojUuk-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:47:"jason-goodman-Oalh2MojUuk-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"jason-goodman-Oalh2MojUuk-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>afif-kusuma-CT7IWRM7G5k-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/why-selleradise-had-been-so-popular-till-now/afif-kusuma-ct7iwrm7g5k-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 09:56:00 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/afif-kusuma-CT7IWRM7G5k-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2876</wp:post_id>
-		<wp:post_date>2021-11-20 09:56:00</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 09:56:00</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:56:00</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:56:00</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>afif-kusuma-ct7iwrm7g5k-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2875</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/afif-kusuma-CT7IWRM7G5k-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/afif-kusuma-CT7IWRM7G5k-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1919;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/afif-kusuma-CT7IWRM7G5k-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"afif-kusuma-CT7IWRM7G5k-unsplash-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:45:"afif-kusuma-CT7IWRM7G5k-unsplash-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"afif-kusuma-CT7IWRM7G5k-unsplash-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:45:"afif-kusuma-CT7IWRM7G5k-unsplash-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"afif-kusuma-CT7IWRM7G5k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>austin-distel-wD1LRb9OeEo-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/seven-latest-developments-in-selleradise/austin-distel-wd1lrb9oeeo-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 09:59:12 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/austin-distel-wD1LRb9OeEo-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2879</wp:post_id>
-		<wp:post_date>2021-11-20 09:59:12</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 09:59:12</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 09:59:12</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 09:59:12</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>austin-distel-wd1lrb9oeeo-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2878</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/austin-distel-wD1LRb9OeEo-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/austin-distel-wD1LRb9OeEo-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:46:"2021/11/austin-distel-wD1LRb9OeEo-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"austin-distel-wD1LRb9OeEo-unsplash-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"austin-distel-wD1LRb9OeEo-unsplash-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:47:"austin-distel-wD1LRb9OeEo-unsplash-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"austin-distel-wD1LRb9OeEo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>campaign-creators-e6n7uoEnYbA-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/20/10-reasons-why-people-like-selleradise/campaign-creators-e6n7uoenyba-unsplash/</link>
-		<pubDate>Sat, 20 Nov 2021 10:02:27 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/campaign-creators-e6n7uoEnYbA-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2882</wp:post_id>
-		<wp:post_date>2021-11-20 10:02:27</wp:post_date>
-		<wp:post_date_gmt>2021-11-20 10:02:27</wp:post_date_gmt>
-		<wp:post_modified>2021-11-20 10:02:27</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-20 10:02:27</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>campaign-creators-e6n7uoenyba-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2881</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/campaign-creators-e6n7uoEnYbA-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/campaign-creators-e6n7uoEnYbA-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:50:"2021/11/campaign-creators-e6n7uoEnYbA-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"campaign-creators-e6n7uoEnYbA-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:52:"campaign-creators-e6n7uoEnYbA-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:51:"campaign-creators-e6n7uoEnYbA-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:51:"campaign-creators-e6n7uoEnYbA-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:50:"campaign-creators-e6n7uoEnYbA-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>david-kohler-VFRTXGw1VjU-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/the-history-of-selleradise/david-kohler-vfrtxgw1vju-unsplash/</link>
-		<pubDate>Sun, 21 Nov 2021 15:18:56 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/david-kohler-VFRTXGw1VjU-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2901</wp:post_id>
-		<wp:post_date>2021-11-21 15:18:56</wp:post_date>
-		<wp:post_date_gmt>2021-11-21 15:18:56</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:18:56</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:18:56</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>david-kohler-vfrtxgw1vju-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>3377</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/david-kohler-VFRTXGw1VjU-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/david-kohler-VFRTXGw1VjU-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1481;s:6:"height";i:1080;s:4:"file";s:45:"2021/11/david-kohler-VFRTXGw1VjU-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-300x219.jpg";s:5:"width";i:300;s:6:"height";i:219;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"david-kohler-VFRTXGw1VjU-unsplash-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-768x560.jpg";s:5:"width";i:768;s:6:"height";i:560;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"david-kohler-VFRTXGw1VjU-unsplash-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:46:"david-kohler-VFRTXGw1VjU-unsplash-1024x747.jpg";s:5:"width";i:1024;s:6:"height";i:747;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"david-kohler-VFRTXGw1VjU-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>krakenimages-376KN_ISplE-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/how-you-can-own-selleradise-with-lower-cost/krakenimages-376kn_isple-unsplash/</link>
-		<pubDate>Sun, 21 Nov 2021 15:21:34 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/krakenimages-376KN_ISplE-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>2905</wp:post_id>
-		<wp:post_date>2021-11-21 15:21:34</wp:post_date>
-		<wp:post_date_gmt>2021-11-21 15:21:34</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:21:34</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:21:34</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>krakenimages-376kn_isple-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>2903</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/krakenimages-376KN_ISplE-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/krakenimages-376KN_ISplE-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:45:"2021/11/krakenimages-376KN_ISplE-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"krakenimages-376KN_ISplE-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:47:"krakenimages-376KN_ISplE-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"krakenimages-376KN_ISplE-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:46:"krakenimages-376KN_ISplE-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"krakenimages-376KN_ISplE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>bruce-mars-8YG31Xn4dSw-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/21/fully-utilize-selleradise-to-enhance-your-business/bruce-mars-8yg31xn4dsw-unsplash/</link>
-		<pubDate>Sun, 21 Nov 2021 15:16:34 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/bruce-mars-8YG31Xn4dSw-unsplash.jpg</guid>
-		<description />
-		<ns2:encoded />
-		<ns3:encoded />
-		<wp:post_id>3375</wp:post_id>
-		<wp:post_date>2021-11-21 15:16:34</wp:post_date>
-		<wp:post_date_gmt>2021-11-21 15:16:34</wp:post_date_gmt>
-		<wp:post_modified>2021-11-21 15:16:34</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-21 15:16:34</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bruce-mars-8yg31xn4dsw-unsplash</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>3376</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/bruce-mars-8YG31Xn4dSw-unsplash.jpg</wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/bruce-mars-8YG31Xn4dSw-unsplash.jpg</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/bruce-mars-8YG31Xn4dSw-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"bruce-mars-8YG31Xn4dSw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:45:"bruce-mars-8YG31Xn4dSw-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"bruce-mars-8YG31Xn4dSw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:44:"bruce-mars-8YG31Xn4dSw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"bruce-mars-8YG31Xn4dSw-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>aiony-haust-3TLl_97HNJo-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/aiony-haust-3tll_97hnjo-unsplash/</link>
+		<link>https://selleradise.redoxbird.com/aiony-haust-3tll_97hnjo-unsplash/</link>
 		<pubDate>Mon, 22 Nov 2021 14:01:06 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
@@ -889,22 +703,22 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
 		<wp:meta_value>2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:863;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"aiony-haust-3TLl_97HNJo-unsplash-818x1024.jpg";s:5:"width";i:818;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-768x961.jpg";s:5:"width";i:768;s:6:"height";i:961;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:863;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/aiony-haust-3TLl_97HNJo-unsplash.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"aiony-haust-3TLl_97HNJo-unsplash-818x1024.jpg";s:5:"width";i:818;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-768x961.jpg";s:5:"width";i:768;s:6:"height";i:961;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"aiony-haust-3TLl_97HNJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>ben-parker-OhKElOkQ3RE-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/ben-parker-ohkelokq3re-unsplash/</link>
+		<link>https://selleradise.redoxbird.com/ben-parker-ohkelokq3re-unsplash/</link>
 		<pubDate>Mon, 22 Nov 2021 14:01:07 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
@@ -922,22 +736,22 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
 		<wp:meta_value>2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"ben-parker-OhKElOkQ3RE-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/ben-parker-OhKElOkQ3RE-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"ben-parker-OhKElOkQ3RE-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"ben-parker-OhKElOkQ3RE-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>christopher-campbell-rDEOVtE7vOs-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/christopher-campbell-rdeovte7vos-unsplash/</link>
+		<link>https://selleradise.redoxbird.com/christopher-campbell-rdeovte7vos-unsplash/</link>
 		<pubDate>Mon, 22 Nov 2021 14:01:08 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
@@ -955,22 +769,22 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
 		<wp:meta_value>2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:53:"2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:55:"christopher-campbell-rDEOVtE7vOs-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:53:"2021/11/christopher-campbell-rDEOVtE7vOs-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:55:"christopher-campbell-rDEOVtE7vOs-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:54:"christopher-campbell-rDEOVtE7vOs-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:53:"christopher-campbell-rDEOVtE7vOs-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>mathilde-langevin-dwGy-ksdUls-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/mathilde-langevin-dwgy-ksduls-unsplash/</link>
+		<link>https://selleradise.redoxbird.com/mathilde-langevin-dwgy-ksduls-unsplash/</link>
 		<pubDate>Mon, 22 Nov 2021 14:01:09 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
@@ -988,22 +802,22 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
 		<wp:meta_value>2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:50:"2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"mathilde-langevin-dwGy-ksdUls-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:50:"2021/11/mathilde-langevin-dwGy-ksdUls-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:51:"mathilde-langevin-dwGy-ksdUls-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:50:"mathilde-langevin-dwGy-ksdUls-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>michael-dam-mEZ3PoFGs_k-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/michael-dam-mez3pofgs_k-unsplash/</link>
+		<link>https://selleradise.redoxbird.com/michael-dam-mez3pofgs_k-unsplash/</link>
 		<pubDate>Mon, 22 Nov 2021 14:01:10 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
@@ -1021,52 +835,349 @@
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
 		<wp:meta_value>2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"michael-dam-mEZ3PoFGs_k-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:720;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/michael-dam-mEZ3PoFGs_k-unsplash.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-200x300.jpg";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"michael-dam-mEZ3PoFGs_k-unsplash-683x1024.jpg";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"michael-dam-mEZ3PoFGs_k-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tania-fernandez-vdjLv8Gwo0g-unsplash</title>
-		<link>https://demo.selleradise.com/fashion/2021/11/25/why-is-selleradise-so-famous/tania-fernandez-vdjlv8gwo0g-unsplash/</link>
-		<pubDate>Thu, 25 Nov 2021 11:36:25 +0000</pubDate>
+		<title>oleg-laptev-QRKJwE6yfJo-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/oleg-laptev-qrkjwe6yfjo-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:14 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/tania-fernandez-vdjLv8Gwo0g-unsplash.jpg</guid>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/oleg-laptev-QRKJwE6yfJo-unsplash.jpg</guid>
 		<description />
 		<ns2:encoded />
 		<ns3:encoded />
-		<wp:post_id>3431</wp:post_id>
-		<wp:post_date>2021-11-25 11:36:25</wp:post_date>
-		<wp:post_date_gmt>2021-11-25 11:36:25</wp:post_date_gmt>
-		<wp:post_modified>2021-11-25 11:36:25</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-25 11:36:25</wp:post_modified_gmt>
+		<wp:post_id>3606</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:14</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:14</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:14</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:14</wp:post_modified_gmt>
 		<wp:comment_status>open</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>tania-fernandez-vdjlv8gwo0g-unsplash</wp:post_name>
+		<wp:post_name>oleg-laptev-qrkjwe6yfjo-unsplash</wp:post_name>
 		<wp:status>inherit</wp:status>
-		<wp:post_parent>3430</wp:post_parent>
+		<wp:post_parent>2869</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>attachment</wp:post_type>
 		<wp:post_password />
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url>https://demo.selleradise.com/fashion/wp-content/uploads/sites/2/2021/11/tania-fernandez-vdjLv8Gwo0g-unsplash.jpg</wp:attachment_url>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/oleg-laptev-QRKJwE6yfJo-unsplash.jpg</wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key>_wp_attached_file</wp:meta_key>
-		<wp:meta_value>2021/11/tania-fernandez-vdjLv8Gwo0g-unsplash.jpg</wp:meta_value>
+		<wp:meta_value>2021/11/oleg-laptev-QRKJwE6yfJo-unsplash.jpg</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:48:"2021/11/tania-fernandez-vdjLv8Gwo0g-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:49:"tania-fernandez-vdjLv8Gwo0g-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:50:"tania-fernandez-vdjLv8Gwo0g-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:49:"tania-fernandez-vdjLv8Gwo0g-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:49:"tania-fernandez-vdjLv8Gwo0g-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:48:"tania-fernandez-vdjLv8Gwo0g-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		<wp:meta_value>a:5:{s:5:"width";i:1619;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/oleg-laptev-QRKJwE6yfJo-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"oleg-laptev-QRKJwE6yfJo-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:46:"oleg-laptev-QRKJwE6yfJo-unsplash-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"oleg-laptev-QRKJwE6yfJo-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:45:"oleg-laptev-QRKJwE6yfJo-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"oleg-laptev-QRKJwE6yfJo-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>isaac-n-c-58l1uegj7YI-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/isaac-n-c-58l1uegj7yi-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:17 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/isaac-n-c-58l1uegj7YI-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3607</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:17</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:17</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:17</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:17</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>isaac-n-c-58l1uegj7yi-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/isaac-n-c-58l1uegj7YI-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/isaac-n-c-58l1uegj7YI-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:42:"2021/11/isaac-n-c-58l1uegj7YI-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"isaac-n-c-58l1uegj7YI-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:44:"isaac-n-c-58l1uegj7YI-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:43:"isaac-n-c-58l1uegj7YI-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:43:"isaac-n-c-58l1uegj7YI-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:42:"isaac-n-c-58l1uegj7YI-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>alex-gruber-qfgm_F0VxQ0-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/alex-gruber-qfgm_f0vxq0-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:20 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/alex-gruber-qfgm_F0VxQ0-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3608</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:20</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:20</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:20</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:20</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>alex-gruber-qfgm_f0vxq0-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/alex-gruber-qfgm_F0VxQ0-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/alex-gruber-qfgm_F0VxQ0-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1559;s:6:"height";i:1080;s:4:"file";s:44:"2021/11/alex-gruber-qfgm_F0VxQ0-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-300x208.jpg";s:5:"width";i:300;s:6:"height";i:208;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"alex-gruber-qfgm_F0VxQ0-unsplash-1024x709.jpg";s:5:"width";i:1024;s:6:"height";i:709;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-768x532.jpg";s:5:"width";i:768;s:6:"height";i:532;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:46:"alex-gruber-qfgm_F0VxQ0-unsplash-1536x1064.jpg";s:5:"width";i:1536;s:6:"height";i:1064;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"alex-gruber-qfgm_F0VxQ0-unsplash-1024x709.jpg";s:5:"width";i:1024;s:6:"height";i:709;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:45:"alex-gruber-qfgm_F0VxQ0-unsplash-1024x709.jpg";s:5:"width";i:1024;s:6:"height";i:709;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:44:"alex-gruber-qfgm_F0VxQ0-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>mike-meyers--haAxbjiHds-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/mike-meyers-haaxbjihds-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:23 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/mike-meyers-haAxbjiHds-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3609</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:23</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:23</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:23</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:23</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>mike-meyers-haaxbjihds-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/mike-meyers-haAxbjiHds-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/mike-meyers-haAxbjiHds-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1080;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/mike-meyers-haAxbjiHds-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:45:"mike-meyers-haAxbjiHds-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:45:"mike-meyers-haAxbjiHds-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:45:"mike-meyers-haAxbjiHds-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"mike-meyers-haAxbjiHds-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>malvestida-magazine-FfbVFLAVscw-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/malvestida-magazine-ffbvflavscw-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:26 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/malvestida-magazine-FfbVFLAVscw-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3610</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:26</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:26</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:26</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:26</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>malvestida-magazine-ffbvflavscw-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/malvestida-magazine-FfbVFLAVscw-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/malvestida-magazine-FfbVFLAVscw-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:52:"2021/11/malvestida-magazine-FfbVFLAVscw-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:53:"malvestida-magazine-FfbVFLAVscw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:54:"malvestida-magazine-FfbVFLAVscw-unsplash-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:53:"malvestida-magazine-FfbVFLAVscw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:53:"malvestida-magazine-FfbVFLAVscw-unsplash-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:52:"malvestida-magazine-FfbVFLAVscw-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>elice-moore-E--AUpYXbjM-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/elice-moore-e-aupyxbjm-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:29 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/elice-moore-E-AUpYXbjM-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3611</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:29</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:29</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:29</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:29</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>elice-moore-e-aupyxbjm-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/elice-moore-E-AUpYXbjM-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/elice-moore-E-AUpYXbjM-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1467;s:6:"height";i:1080;s:4:"file";s:43:"2021/11/elice-moore-E-AUpYXbjM-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-300x221.jpg";s:5:"width";i:300;s:6:"height";i:221;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:44:"elice-moore-E-AUpYXbjM-unsplash-1024x754.jpg";s:5:"width";i:1024;s:6:"height";i:754;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-768x565.jpg";s:5:"width";i:768;s:6:"height";i:565;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:44:"elice-moore-E-AUpYXbjM-unsplash-1024x754.jpg";s:5:"width";i:1024;s:6:"height";i:754;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:44:"elice-moore-E-AUpYXbjM-unsplash-1024x754.jpg";s:5:"width";i:1024;s:6:"height";i:754;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:43:"elice-moore-E-AUpYXbjM-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>amy-shamblen-pJ_DCj9KswI-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/5-little-tricks-to-achieve-the-best-results-in-selleradise/amy-shamblen-pj_dcj9kswi-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:25:31 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/amy-shamblen-pJ_DCj9KswI-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3612</wp:post_id>
+		<wp:post_date>2021-12-18 11:25:31</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:25:31</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:25:31</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:25:31</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>amy-shamblen-pj_dcj9kswi-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2869</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/amy-shamblen-pJ_DCj9KswI-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/amy-shamblen-pJ_DCj9KswI-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1080;s:6:"height";i:1080;s:4:"file";s:45:"2021/11/amy-shamblen-pJ_DCj9KswI-unsplash.jpg";s:5:"sizes";a:10:{s:6:"medium";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"amy-shamblen-pJ_DCj9KswI-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"amy-shamblen-pJ_DCj9KswI-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:47:"amy-shamblen-pJ_DCj9KswI-unsplash-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"amy-shamblen-pJ_DCj9KswI-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>ronald-cuyan-AJgFLjnmSs4-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/10-facts-you-never-knew-about-selleradise/ronald-cuyan-ajgfljnmss4-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:34:52 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/ronald-cuyan-AJgFLjnmSs4-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3622</wp:post_id>
+		<wp:post_date>2021-12-18 11:34:52</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:34:52</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:34:52</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:34:52</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>ronald-cuyan-ajgfljnmss4-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2866</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/ronald-cuyan-AJgFLjnmSs4-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/ronald-cuyan-AJgFLjnmSs4-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1618;s:6:"height";i:1080;s:4:"file";s:45:"2021/11/ronald-cuyan-AJgFLjnmSs4-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:46:"ronald-cuyan-AJgFLjnmSs4-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:47:"ronald-cuyan-AJgFLjnmSs4-unsplash-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:46:"ronald-cuyan-AJgFLjnmSs4-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:46:"ronald-cuyan-AJgFLjnmSs4-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:45:"ronald-cuyan-AJgFLjnmSs4-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>jakub-dziubak-XtUd5SiX464-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/10-facts-you-never-knew-about-selleradise/jakub-dziubak-xtud5six464-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:34:55 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/jakub-dziubak-XtUd5SiX464-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3623</wp:post_id>
+		<wp:post_date>2021-12-18 11:34:55</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:34:55</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:34:55</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:34:55</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>jakub-dziubak-xtud5six464-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2866</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/jakub-dziubak-XtUd5SiX464-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/jakub-dziubak-XtUd5SiX464-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1616;s:6:"height";i:1080;s:4:"file";s:46:"2021/11/jakub-dziubak-XtUd5SiX464-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:47:"jakub-dziubak-XtUd5SiX464-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:48:"jakub-dziubak-XtUd5SiX464-unsplash-1536x1027.jpg";s:5:"width";i:1536;s:6:"height";i:1027;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:47:"jakub-dziubak-XtUd5SiX464-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:47:"jakub-dziubak-XtUd5SiX464-unsplash-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:46:"jakub-dziubak-XtUd5SiX464-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>alex-padurariu-ZR48YvUpk04-unsplash</title>
+		<link>https://selleradise.redoxbird.com/blog/2021/11/20/why-selleradise-had-been-so-popular-till-now/alex-padurariu-zr48yvupk04-unsplash/</link>
+		<pubDate>Sat, 18 Dec 2021 11:35:16 +0000</pubDate>
+		<dc:creator>khizar</dc:creator>
+		<guid isPermaLink="false">https://selleradise.redoxbird.com/wp-content/uploads/2021/11/alex-padurariu-ZR48YvUpk04-unsplash.jpg</guid>
+		<description />
+		<ns2:encoded />
+		<ns3:encoded />
+		<wp:post_id>3626</wp:post_id>
+		<wp:post_date>2021-12-18 11:35:16</wp:post_date>
+		<wp:post_date_gmt>2021-12-18 11:35:16</wp:post_date_gmt>
+		<wp:post_modified>2021-12-18 11:35:16</wp:post_modified>
+		<wp:post_modified_gmt>2021-12-18 11:35:16</wp:post_modified_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>alex-padurariu-zr48yvupk04-unsplash</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>2875</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password />
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url>https://selleradise.redoxbird.com/wp-content/uploads/2021/11/alex-padurariu-ZR48YvUpk04-unsplash.jpg</wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key>_wp_attached_file</wp:meta_key>
+		<wp:meta_value>2021/11/alex-padurariu-ZR48YvUpk04-unsplash.jpg</wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+		<wp:meta_value>a:5:{s:5:"width";i:1699;s:6:"height";i:1080;s:4:"file";s:47:"2021/11/alex-padurariu-ZR48YvUpk04-unsplash.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-300x191.jpg";s:5:"width";i:300;s:6:"height";i:191;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:48:"alex-padurariu-ZR48YvUpk04-unsplash-1024x651.jpg";s:5:"width";i:1024;s:6:"height";i:651;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-768x488.jpg";s:5:"width";i:768;s:6:"height";i:488;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:48:"alex-padurariu-ZR48YvUpk04-unsplash-1536x976.jpg";s:5:"width";i:1536;s:6:"height";i:976;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:48:"alex-padurariu-ZR48YvUpk04-unsplash-1024x651.jpg";s:5:"width";i:1024;s:6:"height";i:651;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:48:"alex-padurariu-ZR48YvUpk04-unsplash-1024x651.jpg";s:5:"width";i:1024;s:6:"height";i:651;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:47:"alex-padurariu-ZR48YvUpk04-unsplash-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
 				<item>
 		<title>Valuable business resource</title>
-		<link>https://demo.selleradise.com/fashion/testimonial/valuable-business-resource/</link>
+		<link>https://selleradise.redoxbird.com/blog/testimonial/valuable-business-resource/</link>
 		<pubDate>Mon, 22 Nov 2021 14:02:21 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&amp;p=3384</guid>
@@ -1076,8 +1187,8 @@
 		<wp:post_id>3384</wp:post_id>
 		<wp:post_date>2021-11-22 14:02:21</wp:post_date>
 		<wp:post_date_gmt>2021-11-22 14:02:21</wp:post_date_gmt>
-		<wp:post_modified>2021-11-22 14:06:41</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-22 14:06:41</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-22 14:02:21</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-22 14:02:21</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>valuable-business-resource</wp:post_name>
@@ -1115,7 +1226,7 @@
 							</item>
 					<item>
 		<title>Pleased with the product</title>
-		<link>https://demo.selleradise.com/fashion/testimonial/pleased-with-the-product/</link>
+		<link>https://selleradise.redoxbird.com/blog/testimonial/pleased-with-the-product/</link>
 		<pubDate>Mon, 22 Nov 2021 14:04:03 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&amp;p=3390</guid>
@@ -1125,8 +1236,8 @@
 		<wp:post_id>3390</wp:post_id>
 		<wp:post_date>2021-11-22 14:04:03</wp:post_date>
 		<wp:post_date_gmt>2021-11-22 14:04:03</wp:post_date_gmt>
-		<wp:post_modified>2021-11-22 14:06:26</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-22 14:06:26</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-22 14:04:03</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-22 14:04:03</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>pleased-with-the-product</wp:post_name>
@@ -1164,7 +1275,7 @@
 							</item>
 					<item>
 		<title>Perfect solution for our business</title>
-		<link>https://demo.selleradise.com/fashion/testimonial/perfect-solution-for-our-business/</link>
+		<link>https://selleradise.redoxbird.com/blog/testimonial/perfect-solution-for-our-business/</link>
 		<pubDate>Mon, 22 Nov 2021 14:05:35 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&amp;p=3391</guid>
@@ -1213,7 +1324,7 @@
 							</item>
 					<item>
 		<title>Thanks for the great service</title>
-		<link>https://demo.selleradise.com/fashion/testimonial/thanks-for-the-great-service/</link>
+		<link>https://selleradise.redoxbird.com/blog/testimonial/thanks-for-the-great-service/</link>
 		<pubDate>Mon, 22 Nov 2021 14:08:15 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&amp;p=3392</guid>
@@ -1262,7 +1373,7 @@
 							</item>
 					<item>
 		<title>This is simply unbelievable</title>
-		<link>https://demo.selleradise.com/fashion/testimonial/this-is-simply-unbelievable/</link>
+		<link>https://selleradise.redoxbird.com/blog/testimonial/this-is-simply-unbelievable/</link>
 		<pubDate>Mon, 22 Nov 2021 14:09:41 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&amp;p=3393</guid>
@@ -1311,7 +1422,7 @@
 							</item>
 				<item>
 		<title>What Does Lorem Ipsum Mean?</title>
-		<link>https://demo.selleradise.com/fashion/faq/what-does-lorem-ipsum-mean/</link>
+		<link>https://selleradise.redoxbird.com/blog/faq/what-does-lorem-ipsum-mean/</link>
 		<pubDate>Mon, 15 Nov 2021 12:06:23 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&amp;p=398</guid>
@@ -1323,8 +1434,8 @@
 		<wp:post_id>398</wp:post_id>
 		<wp:post_date>2021-11-15 12:06:23</wp:post_date>
 		<wp:post_date_gmt>2021-11-15 12:06:23</wp:post_date_gmt>
-		<wp:post_modified>2021-11-15 12:11:31</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-15 12:11:31</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-15 12:06:23</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-15 12:06:23</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>what-does-lorem-ipsum-mean</wp:post_name>
@@ -1342,7 +1453,7 @@
 							</item>
 					<item>
 		<title>What is A Lorem Ipsum Generator?</title>
-		<link>https://demo.selleradise.com/fashion/faq/what-is-a-lorem-ipsum-generator/</link>
+		<link>https://selleradise.redoxbird.com/blog/faq/what-is-a-lorem-ipsum-generator/</link>
 		<pubDate>Mon, 15 Nov 2021 12:06:43 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&amp;p=399</guid>
@@ -1354,8 +1465,8 @@
 		<wp:post_id>399</wp:post_id>
 		<wp:post_date>2021-11-15 12:06:43</wp:post_date>
 		<wp:post_date_gmt>2021-11-15 12:06:43</wp:post_date_gmt>
-		<wp:post_modified>2021-11-15 12:11:04</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-15 12:11:04</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-15 12:06:43</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-15 12:06:43</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>what-is-a-lorem-ipsum-generator</wp:post_name>
@@ -1373,7 +1484,7 @@
 							</item>
 					<item>
 		<title>What is bolo bolo (fake text too)?</title>
-		<link>https://demo.selleradise.com/fashion/faq/what-is-bolo-bolo-fake-text-too/</link>
+		<link>https://selleradise.redoxbird.com/blog/faq/what-is-bolo-bolo-fake-text-too/</link>
 		<pubDate>Mon, 15 Nov 2021 12:08:37 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&amp;p=400</guid>
@@ -1385,8 +1496,8 @@
 		<wp:post_id>400</wp:post_id>
 		<wp:post_date>2021-11-15 12:08:37</wp:post_date>
 		<wp:post_date_gmt>2021-11-15 12:08:37</wp:post_date_gmt>
-		<wp:post_modified>2021-11-15 12:11:23</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-15 12:11:23</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-15 12:08:37</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-15 12:08:37</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>what-is-bolo-bolo-fake-text-too</wp:post_name>
@@ -1404,7 +1515,7 @@
 							</item>
 					<item>
 		<title>Where does Lorem Ipsum come from?</title>
-		<link>https://demo.selleradise.com/fashion/faq/where-does-lorem-ipsum-come-from/</link>
+		<link>https://selleradise.redoxbird.com/blog/faq/where-does-lorem-ipsum-come-from/</link>
 		<pubDate>Mon, 15 Nov 2021 12:09:04 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&amp;p=401</guid>
@@ -1416,8 +1527,8 @@
 		<wp:post_id>401</wp:post_id>
 		<wp:post_date>2021-11-15 12:09:04</wp:post_date>
 		<wp:post_date_gmt>2021-11-15 12:09:04</wp:post_date_gmt>
-		<wp:post_modified>2021-11-15 12:10:02</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-15 12:10:02</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-15 12:09:04</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-15 12:09:04</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>where-does-lorem-ipsum-come-from</wp:post_name>
@@ -1435,7 +1546,7 @@
 							</item>
 					<item>
 		<title>How Lorem Ipsum Became Such a Standard?</title>
-		<link>https://demo.selleradise.com/fashion/faq/how-lorem-ipsum-became-such-a-standard/</link>
+		<link>https://selleradise.redoxbird.com/blog/faq/how-lorem-ipsum-became-such-a-standard/</link>
 		<pubDate>Mon, 15 Nov 2021 12:09:47 +0000</pubDate>
 		<dc:creator>khizar</dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&amp;p=402</guid>
@@ -1447,8 +1558,8 @@
 		<wp:post_id>402</wp:post_id>
 		<wp:post_date>2021-11-15 12:09:47</wp:post_date>
 		<wp:post_date_gmt>2021-11-15 12:09:47</wp:post_date_gmt>
-		<wp:post_modified>2021-11-15 12:10:45</wp:post_modified>
-		<wp:post_modified_gmt>2021-11-15 12:10:45</wp:post_modified_gmt>
+		<wp:post_modified>2021-11-15 12:09:47</wp:post_modified>
+		<wp:post_modified_gmt>2021-11-15 12:09:47</wp:post_modified_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>how-lorem-ipsum-became-such-a-standard</wp:post_name>
