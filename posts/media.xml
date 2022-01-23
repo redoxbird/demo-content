@@ -4,7 +4,7 @@
 	<title>Selleradise Demo</title>
 	<link>https://selleradise.redoxbird.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 30 Dec 2021 15:22:19 +0000</pubDate>
+	<pubDate>Sun, 23 Jan 2022 11:19:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://selleradise.redoxbird.com/</wp:base_site_url>
@@ -13,7 +13,7 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login>khizar</wp:author_login><wp:author_email>khizarhasan927@gmail.com</wp:author_email><wp:author_display_name>khizar</wp:author_display_name><wp:author_first_name /><wp:author_last_name /></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://selleradise.redoxbird.com/wp-content/uploads/2021/12/cropped-icon-v5-32x32.png</url>
@@ -551,5 +551,5 @@
 		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:66:"2021/11/flower-petal-love-heart-decoration-food-1202365-pxhere.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:68:"flower-petal-love-heart-decoration-food-1202365-pxhere-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
-				</channel>
+					</channel>
 </rss>

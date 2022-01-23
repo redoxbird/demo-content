@@ -4,7 +4,7 @@
 	<title>Selleradise Demo</title>
 	<link>https://selleradise.redoxbird.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Thu, 30 Dec 2021 15:21:48 +0000</pubDate>
+	<pubDate>Sun, 23 Jan 2022 11:18:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://selleradise.redoxbird.com/</wp:base_site_url>
@@ -13,7 +13,7 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login>khizar</wp:author_login><wp:author_email>khizarhasan927@gmail.com</wp:author_email><wp:author_display_name>khizar</wp:author_display_name><wp:author_first_name /><wp:author_last_name /></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
 
 <image>
 	<url>https://selleradise.redoxbird.com/wp-content/uploads/2021/12/cropped-icon-v5-32x32.png</url>
@@ -24,73 +24,6 @@
 </image> 
 
 		<item>
-		<title>Hello world!</title>
-		<link>https://selleradise.redoxbird.com/?p=1</link>
-		<pubDate>Tue, 07 Dec 2021 08:37:31 +0000</pubDate>
-		<dc:creator>khizar</dc:creator>
-		<guid isPermaLink="false">https://selleradise.redoxbird.com/?p=1</guid>
-		<description />
-		<ns2:encoded>&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Welcome to WordPress. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns2:encoded>
-		<ns3:encoded />
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2021-12-07 08:37:31</wp:post_date>
-		<wp:post_date_gmt>2021-12-07 08:37:31</wp:post_date_gmt>
-		<wp:post_modified>2021-12-17 11:22:17</wp:post_modified>
-		<wp:post_modified_gmt>2021-12-17 11:22:17</wp:post_modified_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world__trashed</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password />
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized">Uncategorized</category>
-						<wp:postmeta>
-		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>12</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1638867035</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-		<wp:meta_value>publish</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-		<wp:meta_value>1639740137</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-		<wp:meta_value>hello-world</wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-		<wp:meta_value>a:1:{i:1;s:1:"1";}</wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author>A WordPress Commenter</wp:comment_author>
-			<wp:comment_author_email>wapuu@wordpress.example</wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP />
-			<wp:comment_date>2021-12-07 08:37:31</wp:comment_date>
-			<wp:comment_date_gmt>2021-12-07 08:37:31</wp:comment_date_gmt>
-			<wp:comment_content>Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&gt;.</wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type>comment</wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title>10 Facts You Never Knew About Selleradise</title>
 		<link>https://selleradise.redoxbird.com/blog/2021/11/20/10-facts-you-never-knew-about-selleradise/</link>
 		<pubDate>Sat, 20 Nov 2021 09:41:56 +0000</pubDate>
@@ -142,11 +75,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>6</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639618220</wp:meta_value>
+		<wp:meta_value>1641359921</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -205,13 +138,29 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>15</wp:meta_value>
+		<wp:meta_value>13</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639648981</wp:meta_value>
+		<wp:meta_value>1641220174</wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author>BobbyLaway</wp:comment_author>
+			<wp:comment_author_email>aswcfrbgk@yandex.com</wp:comment_author_email>
+			<wp:comment_author_url>https://disvaiza.mystrikingly.com/</wp:comment_author_url>
+			<wp:comment_author_IP>46.161.11.11</wp:comment_author_IP>
+			<wp:comment_date>2022-01-21 01:27:02</wp:comment_date>
+			<wp:comment_date_gmt>2022-01-21 01:27:02</wp:comment_date_gmt>
+			<wp:comment_content>pharmacy online prescription  [url=https://disvaiza.mystrikingly.com/#]pharmacies [/url] 
+canadian pharmacy cialis 20mg  &lt;a href="https://disvaiza.mystrikingly.com/#" rel="nofollow ugc"&gt;canadian pharmacies &lt;/a&gt; 
+drugstore online  https://disvaiza.mystrikingly.com/</wp:comment_content>
+			<wp:comment_approved>0</wp:comment_approved>
+			<wp:comment_type>comment</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Five Preparations You Should Make Before Using Selleradise</title>
 		<link>https://selleradise.redoxbird.com/blog/2021/11/20/five-preparations-you-should-make-before-using-selleradise/</link>
@@ -264,11 +213,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>6</wp:meta_value>
+		<wp:meta_value>4</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639589661</wp:meta_value>
+		<wp:meta_value>1641228130</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -323,11 +272,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>6</wp:meta_value>
+		<wp:meta_value>4</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639675486</wp:meta_value>
+		<wp:meta_value>1641369237</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -382,11 +331,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>9</wp:meta_value>
+		<wp:meta_value>2</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639652248</wp:meta_value>
+		<wp:meta_value>1641030103</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -441,11 +390,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>9</wp:meta_value>
+		<wp:meta_value>3</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639611261</wp:meta_value>
+		<wp:meta_value>1641386560</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -500,11 +449,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>10</wp:meta_value>
+		<wp:meta_value>6</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639592361</wp:meta_value>
+		<wp:meta_value>1641113246</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -563,7 +512,7 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639656276</wp:meta_value>
+		<wp:meta_value>1641104016</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -618,11 +567,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>5</wp:meta_value>
+		<wp:meta_value>18</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639657376</wp:meta_value>
+		<wp:meta_value>1641110000</wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -673,11 +622,11 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views</wp:meta_key>
-		<wp:meta_value>8</wp:meta_value>
+		<wp:meta_value>12</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key>selleradise_trending_post_views_updated_on</wp:meta_key>
-		<wp:meta_value>1639642170</wp:meta_value>
+		<wp:meta_value>1641130773</wp:meta_value>
 		</wp:postmeta>
 							</item>
 				<item>
@@ -1208,7 +1157,7 @@ Commenter avatars come from &lt;a href="https://gravatar.com"&gt;Gravatar&lt;/a&
 		<wp:meta_value>a:5:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:66:"2021/11/flower-petal-love-heart-decoration-food-1202365-pxhere.jpg";s:5:"sizes";a:11:{s:6:"medium";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:68:"flower-petal-love-heart-decoration-food-1202365-pxhere-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-300x360.jpg";s:5:"width";i:300;s:6:"height";i:360;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:67:"flower-petal-love-heart-decoration-food-1202365-pxhere-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:66:"flower-petal-love-heart-decoration-food-1202365-pxhere-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}</wp:meta_value>
 		</wp:postmeta>
 							</item>
-				<item>
+					<item>
 		<title>Valuable business resource</title>
 		<link>https://selleradise.redoxbird.com/blog/testimonial/valuable-business-resource/</link>
 		<pubDate>Mon, 22 Nov 2021 14:02:21 +0000</pubDate>
