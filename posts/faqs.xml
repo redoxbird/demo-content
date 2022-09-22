@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-23 11:19" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-22 10:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,30 +27,22 @@
 
 <channel>
 	<title>Selleradise Demo</title>
-	<link>https://selleradise.redoxbird.com</link>
+	<link>https://demo.selleradise.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sun, 23 Jan 2022 11:19:22 +0000</pubDate>
+	<pubDate>Thu, 22 Sep 2022 10:03:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://selleradise.redoxbird.com/</wp:base_site_url>
-	<wp:base_blog_url>https://selleradise.redoxbird.com</wp:base_blog_url>
+	<wp:base_site_url>https://demo.selleradise.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.selleradise.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[khizar]]></wp:author_login><wp:author_email><![CDATA[khizarhasan927@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[khizar]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.3</generator>
-
-<image>
-	<url>https://selleradise.redoxbird.com/wp-content/uploads/2021/12/cropped-icon-v5-32x32.png</url>
-	<title>Selleradise Demo</title>
-	<link>https://selleradise.redoxbird.com</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
 		<title><![CDATA[What Does Lorem Ipsum Mean?]]></title>
-		<link>https://selleradise.redoxbird.com/blog/faq/what-does-lorem-ipsum-mean/</link>
+		<link>https://demo.selleradise.com/blog/faq/what-does-lorem-ipsum-mean/</link>
 		<pubDate>Mon, 15 Nov 2021 12:06:23 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&#038;p=398</guid>
@@ -81,7 +73,7 @@
 							</item>
 					<item>
 		<title><![CDATA[What is A Lorem Ipsum Generator?]]></title>
-		<link>https://selleradise.redoxbird.com/blog/faq/what-is-a-lorem-ipsum-generator/</link>
+		<link>https://demo.selleradise.com/blog/faq/what-is-a-lorem-ipsum-generator/</link>
 		<pubDate>Mon, 15 Nov 2021 12:06:43 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&#038;p=399</guid>
@@ -112,7 +104,7 @@
 							</item>
 					<item>
 		<title><![CDATA[What is bolo bolo (fake text too)?]]></title>
-		<link>https://selleradise.redoxbird.com/blog/faq/what-is-bolo-bolo-fake-text-too/</link>
+		<link>https://demo.selleradise.com/blog/faq/what-is-bolo-bolo-fake-text-too/</link>
 		<pubDate>Mon, 15 Nov 2021 12:08:37 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&#038;p=400</guid>
@@ -143,7 +135,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Where does Lorem Ipsum come from?]]></title>
-		<link>https://selleradise.redoxbird.com/blog/faq/where-does-lorem-ipsum-come-from/</link>
+		<link>https://demo.selleradise.com/blog/faq/where-does-lorem-ipsum-come-from/</link>
 		<pubDate>Mon, 15 Nov 2021 12:09:04 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&#038;p=401</guid>
@@ -174,7 +166,7 @@
 							</item>
 					<item>
 		<title><![CDATA[How Lorem Ipsum Became Such a Standard?]]></title>
-		<link>https://selleradise.redoxbird.com/blog/faq/how-lorem-ipsum-became-such-a-standard/</link>
+		<link>https://demo.selleradise.com/blog/faq/how-lorem-ipsum-became-such-a-standard/</link>
 		<pubDate>Mon, 15 Nov 2021 12:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=faq&#038;p=402</guid>

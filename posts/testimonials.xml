@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-01-23 11:19" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-22 10:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,30 +27,22 @@
 
 <channel>
 	<title>Selleradise Demo</title>
-	<link>https://selleradise.redoxbird.com</link>
+	<link>https://demo.selleradise.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Sun, 23 Jan 2022 11:19:10 +0000</pubDate>
+	<pubDate>Thu, 22 Sep 2022 10:03:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://selleradise.redoxbird.com/</wp:base_site_url>
-	<wp:base_blog_url>https://selleradise.redoxbird.com</wp:base_blog_url>
+	<wp:base_site_url>https://demo.selleradise.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.selleradise.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[khizar]]></wp:author_login><wp:author_email><![CDATA[khizarhasan927@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[khizar]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 				
-	<generator>https://wordpress.org/?v=5.8.3</generator>
-
-<image>
-	<url>https://selleradise.redoxbird.com/wp-content/uploads/2021/12/cropped-icon-v5-32x32.png</url>
-	<title>Selleradise Demo</title>
-	<link>https://selleradise.redoxbird.com</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 		<item>
 		<title><![CDATA[Valuable business resource]]></title>
-		<link>https://selleradise.redoxbird.com/blog/testimonial/valuable-business-resource/</link>
+		<link>https://demo.selleradise.com/blog/testimonial/valuable-business-resource/</link>
 		<pubDate>Mon, 22 Nov 2021 14:02:21 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&#038;p=3384</guid>
@@ -60,8 +52,8 @@
 		<wp:post_id>3384</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-22 14:02:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-22 14:02:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-30 14:55:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-30 14:55:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-22 14:02:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-22 14:02:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[valuable-business-resource]]></wp:post_name>
@@ -99,7 +91,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Pleased with the product]]></title>
-		<link>https://selleradise.redoxbird.com/blog/testimonial/pleased-with-the-product/</link>
+		<link>https://demo.selleradise.com/blog/testimonial/pleased-with-the-product/</link>
 		<pubDate>Mon, 22 Nov 2021 14:04:03 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&#038;p=3390</guid>
@@ -109,8 +101,8 @@
 		<wp:post_id>3390</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-22 14:04:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-22 14:04:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-30 14:52:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-30 14:52:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-22 14:04:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-22 14:04:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pleased-with-the-product]]></wp:post_name>
@@ -148,7 +140,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Perfect solution for our business]]></title>
-		<link>https://selleradise.redoxbird.com/blog/testimonial/perfect-solution-for-our-business/</link>
+		<link>https://demo.selleradise.com/blog/testimonial/perfect-solution-for-our-business/</link>
 		<pubDate>Mon, 22 Nov 2021 14:05:35 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&#038;p=3391</guid>
@@ -158,8 +150,8 @@
 		<wp:post_id>3391</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-22 14:05:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-22 14:05:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-30 14:52:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-30 14:52:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-22 14:05:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-22 14:05:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[perfect-solution-for-our-business]]></wp:post_name>
@@ -197,7 +189,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Thanks for the great service]]></title>
-		<link>https://selleradise.redoxbird.com/blog/testimonial/thanks-for-the-great-service/</link>
+		<link>https://demo.selleradise.com/blog/testimonial/thanks-for-the-great-service/</link>
 		<pubDate>Mon, 22 Nov 2021 14:08:15 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&#038;p=3392</guid>
@@ -207,8 +199,8 @@
 		<wp:post_id>3392</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-22 14:08:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-22 14:08:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-30 14:52:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-30 14:52:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-22 14:08:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-22 14:08:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[thanks-for-the-great-service]]></wp:post_name>
@@ -246,7 +238,7 @@
 							</item>
 					<item>
 		<title><![CDATA[This is simply unbelievable]]></title>
-		<link>https://selleradise.redoxbird.com/blog/testimonial/this-is-simply-unbelievable/</link>
+		<link>https://demo.selleradise.com/blog/testimonial/this-is-simply-unbelievable/</link>
 		<pubDate>Mon, 22 Nov 2021 14:09:41 +0000</pubDate>
 		<dc:creator><![CDATA[khizar]]></dc:creator>
 		<guid isPermaLink="false">https://demo.selleradise.com/fashion/?post_type=testimonial&#038;p=3393</guid>
@@ -256,8 +248,8 @@
 		<wp:post_id>3393</wp:post_id>
 		<wp:post_date><![CDATA[2021-11-22 14:09:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-11-22 14:09:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-30 14:52:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-30 14:52:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-11-22 14:09:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-11-22 14:09:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[this-is-simply-unbelievable]]></wp:post_name>
